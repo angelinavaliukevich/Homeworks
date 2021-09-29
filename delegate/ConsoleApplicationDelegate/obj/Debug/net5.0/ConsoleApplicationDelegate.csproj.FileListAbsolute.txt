@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\bin\Debug\net5.0\ConsoleApplicationDelegate.exe
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\bin\Debug\net5.0\ConsoleApplicationDelegate.deps.json
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\bin\Debug\net5.0\ConsoleApplicationDelegate.runtimeconfig.json
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\bin\Debug\net5.0\ConsoleApplicationDelegate.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\bin\Debug\net5.0\ConsoleApplicationDelegate.dll
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\bin\Debug\net5.0\ref\ConsoleApplicationDelegate.dll
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\bin\Debug\net5.0\ConsoleApplicationDelegate.pdb
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\obj\Debug\net5.0\ConsoleApplicationDelegate.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\obj\Debug\net5.0\ConsoleApplicationDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\obj\Debug\net5.0\ConsoleApplicationDelegate.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\obj\Debug\net5.0\ConsoleApplicationDelegate.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\obj\Debug\net5.0\ConsoleApplicationDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\obj\Debug\net5.0\ConsoleApplicationDelegate.dll
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\obj\Debug\net5.0\ref\ConsoleApplicationDelegate.dll
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\obj\Debug\net5.0\ConsoleApplicationDelegate.pdb
+C:\Users\Asus\source\repos\ConsoleApplicationDelegate\ConsoleApplicationDelegate\obj\Debug\net5.0\ConsoleApplicationDelegate.genruntimeconfig.cache
