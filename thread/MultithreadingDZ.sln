@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingDZ", "MultithreadingDZ\MultithreadingDZ.csproj", "{D49C44D2-527B-4D00-A930-A72E167BF695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D49C44D2-527B-4D00-A930-A72E167BF695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49C44D2-527B-4D00-A930-A72E167BF695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49C44D2-527B-4D00-A930-A72E167BF695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49C44D2-527B-4D00-A930-A72E167BF695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4401AF11-5786-4A75-8DCD-9E5711CE1CDD}
+	EndGlobalSection
+EndGlobal
