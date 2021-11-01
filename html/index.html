@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+
+<body>
+    <form action="https://www.google.com/search" method="POST">
+        <label>Google</label>
+        <input type="text" name="q" />
+        <button type="submit"> Поиск </button>
+    </form>
+    <br />
+    <h4>Командировочный лист </h4>
+    <form method="post">
+        <label> Цель поездки <input type="text" name="goal" /></label>
+        <br />
+        <br />
+        <label>
+            С<input type="date" />
+            по<input type="date" />
+        </label>
+        <br />
+        <br />
+
+        <label>Оплачиваемый
+            <input type="checkbox" name="is-paid" />
+        </label>
+        <br />
+        <br />
+        <label>Город</label>
+        <select>
+            <optgroup label="Минская">
+                <option value="c2">Минск</option>
+                <option value="c3">Жодино</option>
+            </optgroup>
+            <optgroup label="Брестская">
+                <option value="c4">Брест</option>
+                <option value="c5">Барановичи</option>
+            </optgroup>
+            <optgroup label="Витебская">
+                <option value="c6">Витебск</option>
+                <option value="c7">Новополоцк</option>
+                <option value="c8">Полоцк</option>
+            </optgroup>
+        </select>
+        <br />
+        <br />
+        <br />
+        <table border="1">
+            <tr>
+                <th>Сотрудник</th>
+                <td>Должность</th>
+                <th>Выбрать</th>
+            </tr>
+            <tr>
+                <td>Иван Иванов</td>
+                <td>Директор</td>
+                <td>
+                    <input type="radio" name="imployer" value="1" />
+                </td>
+            </tr>
+            <tr>
+                <td>Егор Егоров</td>
+                <td>Заместитель директора</td>
+                <td>
+                    <input type="radio" name="imployer" value="2" />
+                </td>
+            </tr>
+            <tr>
+                <td>Петр Петров</td>
+                <td>Инженер</td>
+                <td><input type="radio" name="imployer" value="3" />
+                </td>
+            </tr>
+        </table>
+        <br />
+        <br />
+        <h4>Примечание </h4>
+        <p>
+            <label>
+                <textarea name="comments"></textarea>
+            </label>
+        </p>
+        <p>
+            <button type="submit">Создать</button>
+        </p>
+
+
+    </form>
+
+</body>
+
+</html>
