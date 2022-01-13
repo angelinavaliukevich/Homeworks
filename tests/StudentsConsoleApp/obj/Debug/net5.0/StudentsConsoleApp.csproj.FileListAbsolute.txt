@@ -1,0 +1,16 @@
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\bin\Debug\net5.0\StudentsConsoleApp.exe
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\bin\Debug\net5.0\StudentsConsoleApp.deps.json
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\bin\Debug\net5.0\StudentsConsoleApp.runtimeconfig.json
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\bin\Debug\net5.0\StudentsConsoleApp.runtimeconfig.dev.json
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\bin\Debug\net5.0\StudentsConsoleApp.dll
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\bin\Debug\net5.0\ref\StudentsConsoleApp.dll
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\bin\Debug\net5.0\StudentsConsoleApp.pdb
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\obj\Debug\net5.0\StudentsConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\obj\Debug\net5.0\StudentsConsoleApp.AssemblyInfoInputs.cache
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\obj\Debug\net5.0\StudentsConsoleApp.AssemblyInfo.cs
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\obj\Debug\net5.0\StudentsConsoleApp.csproj.CoreCompileInputs.cache
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\obj\Debug\net5.0\StudentsConsoleApp.dll
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\obj\Debug\net5.0\ref\StudentsConsoleApp.dll
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\obj\Debug\net5.0\StudentsConsoleApp.pdb
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\obj\Debug\net5.0\StudentsConsoleApp.genruntimeconfig.cache
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentsConsoleApp\obj\Debug\net5.0\StudentsConsoleApp.csproj.AssemblyReference.cache

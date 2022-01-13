@@ -1,0 +1,6 @@
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentConsoleApp.Tests\obj\Debug\net5.0\StudentConsoleApp.Tests.csproj.AssemblyReference.cache
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentConsoleApp.Tests\obj\Debug\net5.0\StudentConsoleApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentConsoleApp.Tests\obj\Debug\net5.0\StudentConsoleApp.Tests.AssemblyInfoInputs.cache
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentConsoleApp.Tests\obj\Debug\net5.0\StudentConsoleApp.Tests.AssemblyInfo.cs
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentConsoleApp.Tests\obj\Debug\net5.0\StudentConsoleApp.Tests.csproj.CoreCompileInputs.cache
+D:\Data\Downloads\2\StudentsConsoleApp (2)\StudentConsoleApp.Tests\bin\Debug\net5.0\CoverletSourceRootsMapping

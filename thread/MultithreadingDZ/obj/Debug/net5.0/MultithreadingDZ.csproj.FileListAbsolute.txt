@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\bin\Debug\net5.0\MultithreadingDZ.exe
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\bin\Debug\net5.0\MultithreadingDZ.deps.json
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\bin\Debug\net5.0\MultithreadingDZ.runtimeconfig.json
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\bin\Debug\net5.0\MultithreadingDZ.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\bin\Debug\net5.0\MultithreadingDZ.dll
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\bin\Debug\net5.0\ref\MultithreadingDZ.dll
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\bin\Debug\net5.0\MultithreadingDZ.pdb
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\obj\Debug\net5.0\MultithreadingDZ.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\obj\Debug\net5.0\MultithreadingDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\obj\Debug\net5.0\MultithreadingDZ.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\obj\Debug\net5.0\MultithreadingDZ.AssemblyInfo.cs
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\obj\Debug\net5.0\MultithreadingDZ.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\obj\Debug\net5.0\MultithreadingDZ.dll
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\obj\Debug\net5.0\ref\MultithreadingDZ.dll
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\obj\Debug\net5.0\MultithreadingDZ.pdb
+C:\Users\Asus\source\repos\MultithreadingDZ\MultithreadingDZ\obj\Debug\net5.0\MultithreadingDZ.genruntimeconfig.cache
